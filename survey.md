@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: purple
+Favorite food: burger 
+Favorite musician/band: nirvana 
+Favorite movie: empire
+Requested grade in the course: 1000 
